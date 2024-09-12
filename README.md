@@ -1,7 +1,6 @@
-![Coffe_Sales](https://github.com/user-attachments/assets/43aa6907-4eca-4f55-a615-cfc82071010f)
-![Coffe_Sales](https://github.com/user-attachments/assets/43aa6907-4eca-4f55-a615-cfc82071010f)
+![fresh-coffee-steams-wooden-table-close-up-generative-ai](https://github.com/user-attachments/assets/844b1382-d234-41b9-ad0c-c44e05db9bfe)
+![fresh-coffee-steams-wooden-table-close-up-generative-ai](https://github.com/user-attachments/assets/844b1382-d234-41b9-ad0c-c44e05db9bfe)
 # Coffee_Sales
-
 
 ## Project Overview
 

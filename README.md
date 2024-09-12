@@ -48,7 +48,7 @@ Excel is used to create interactive and informative visualizations that showcase
 
 ### Visualization
 
-![Dashboard ]()
+![Dashboard ](https://github.com/Hardeep6dhiman/Coffee_Sales/blob/main/Coffe_Sales.png)
 
 
 ### 5. Insights and Recommendations

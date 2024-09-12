@@ -16,16 +16,16 @@ The project begins with the acquisition of raw sales data. This data may include
 Microsoft Excel is used to clean, filter, and transform the raw data into a format suitable for analysis. This may involve tasks such as Extracting data, Add columns, Format data types by the use of Excel function such as  as respectively:-
 
   1. Customer name: Extract customer name from customer table using vlookup.
-      Customername:(=VLOOKUP($C2,customers!$A$1:$I$1001,2,0)).
+       Customername:(=VLOOKUP($C2,customers!$A$1:$I$1001,2,0)).
      
   2. Emai: In email column there are many Null values. So extracting data shows error. To resolve this problem I use "IF" function and "VLOOKUP" function.
        Email: (=IF(VLOOKUP($C2,customers!$A$1:$I$1001,3,0)=0,"",VLOOKUP($C2,customers!$A$1:$I$1001,3,0))
      
   3. Country: Extract country from customer table using vlookup.
-      Country:(=VLOOKUP($C2,customers!$A$1:$I$1001,7,0)).
+       Country:(=VLOOKUP($C2,customers!$A$1:$I$1001,7,0)).
 
   4. Coffee Type,Roast Type, Size, Unit Price: Extract data by using INDEX and MATCH functions.
-      Coffee Type: (=INDEX(products!$A$1:$G$49,MATCH(orders!$D3,products!$A$1:$A$49,0),MATCH(orders!$I$1,products!$A$1:$G$1,0))).
+       Coffee Type: (=INDEX(products!$A$1:$G$49,MATCH(orders!$D3,products!$A$1:$A$49,0),MATCH(orders!$I$1,products!$A$1:$G$1,0))).
 
   5. Add Column with Coffee Type name, Roast Type name, Loyalty Card: Adding new columns in the table to extract further data. Using "If" statement I extract all the data. Replacing data with new data in these         columns.
       

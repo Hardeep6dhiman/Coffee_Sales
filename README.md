@@ -1,4 +1,7 @@
+![Coffe_Sales](https://github.com/user-attachments/assets/43aa6907-4eca-4f55-a615-cfc82071010f)
+![Coffe_Sales](https://github.com/user-attachments/assets/43aa6907-4eca-4f55-a615-cfc82071010f)
 # Coffee_Sales
+
 
 ## Project Overview
 
